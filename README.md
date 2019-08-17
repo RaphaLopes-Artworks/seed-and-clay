@@ -1,5 +1,4 @@
-# SEED AND CLAY
-
+# SEED AND CLAY <br><br>
 
 ## PEÇA
 - Nome: Semente e Barro 
@@ -7,14 +6,14 @@
 - Técnica utilizada: Pintura digital
 - Dimensões: 80x110 (cada obra)
 - Tiragem: 20 peças 
-- A arte: Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.
+- A arte: Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.<br><br>
 
 ## AUTOR
 - Nome: Rapha Lopes
 - Nacionalidade: Brasileiro
 - O autor: Rapha Lopes é arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura. 
 - Fotos com a obras e prêmios.
-- Mais sobre o autor:  https://raphaelarquitetura.wixsite.com/raphaelarquitetura 
+- Mais sobre o autor:  https://raphaelarquitetura.wixsite.com/raphaelarquitetura <br><br>
 
 
 ## CONTEXTO 
@@ -29,7 +28,7 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 
 ### O ideal feminista
  Instintivamente ele acredita que os dois gêneros habitam nossos corpos e que leis universais ditaram suas intenções.
-Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
+Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
 
 
 ## PREPARAÇÃO 
@@ -47,8 +46,7 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
 
 ### Impressão  
-Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
-
+Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
 
 ## EXPOSIÇÕES 
 
