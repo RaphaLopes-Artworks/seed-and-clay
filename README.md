@@ -1,5 +1,7 @@
 # SEED AND CLAY <br><br>
 
+![Image of Yaktocat](https://github.com/RaphaLopes-Artworks/images/blob/master/arte_ambientada.jpeg)
+
 ## PEÇA
 - Nome: Semente e Barro 
 - Data de criação: Julho 2019 
