@@ -16,8 +16,8 @@
 - Nacionalidade: Brasileiro
 - O autor: Rapha Lopes é arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura. 
 - Fotos com a obras e prêmios.
-- Mais sobre o autor: [link to Google!](http://google.com)
-https://raphaelarquitetura.wixsite.com/raphaelarquitetura <br><br>
+- [Mais sobre o autor](https://raphaelarquitetura.wixsite.com/raphaelarquitetura)
+ <br><br>
 
 
 ## CONTEXTO 
