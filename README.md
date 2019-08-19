@@ -1,25 +1,23 @@
 # SEED AND CLAY <br><br>
 
-![Arte4](/images/arte_ambientada.jpeg) 
-
 ![Image1](/arte_ambientada.jpeg)
 
-![Image2](https://raw.githubusercontent.com/RaphaLopes-Artworks/images/master/arte_ambientada.jpeg)
+<br> Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.<br><br>
 
 ## PEÇA 
-- Nome: Semente e Barro 
-- Data de criação: Julho 2019 
-- Técnica utilizada: Pintura digital
-- Dimensões: 80x110 (cada obra)
-- Tiragem: 20 peças 
-- A arte: Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.<br><br>
+- **Nome**: Semente e Barro 
+- **Data de criação**: Julho 2019 
+- **Técnica utilizada**: Pintura digital
+- **Dimensões**: 80x110 (cada obra)
+- **Tiragem**: 20 peças 
 
 ## AUTOR
 - Nome: Rapha Lopes
 - Nacionalidade: Brasileiro
 - O autor: Rapha Lopes é arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura. 
 - Fotos com a obras e prêmios.
-- Mais sobre o autor:  https://raphaelarquitetura.wixsite.com/raphaelarquitetura <br><br>
+- Mais sobre o autor: [link to Google!](http://google.com)
+https://raphaelarquitetura.wixsite.com/raphaelarquitetura <br><br>
 
 
 ## CONTEXTO 
