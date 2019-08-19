@@ -4,7 +4,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![Image of Yaktocat](https://github.com/RaphaLopes-Artworks/images/blob/master/arte_ambientada.jpeg)
+![Image of Yaktocat](https://raw.githubusercontent.com/RaphaLopes-Artworks/images/master/arte_ambientada.jpeg)
 
 ## PEÇA 
 - Nome: Semente e Barro 
