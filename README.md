@@ -1,6 +1,6 @@
 # SEED AND CLAY <br><br>
 
-![Arte3](/images/arte_ambientada.jpeg) 
+![Arte4](/images/arte_ambientada.jpeg) 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
