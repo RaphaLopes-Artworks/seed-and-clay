@@ -2,9 +2,9 @@
 
 ![Arte4](/images/arte_ambientada.jpeg) 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image1](/arte_ambientada.jpeg)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/RaphaLopes-Artworks/images/master/arte_ambientada.jpeg)
+![Image2](https://raw.githubusercontent.com/RaphaLopes-Artworks/images/master/arte_ambientada.jpeg)
 
 ## PEÇA 
 - Nome: Semente e Barro 
