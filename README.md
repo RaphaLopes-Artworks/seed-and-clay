@@ -50,13 +50,14 @@ Uma representação do ideal feminista para a mostra de arquitetura de interiore
 ![Image2](/images/preparacao/IMG-20190726-WA0015.jpg)
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
 
-### Impressão  
+### Impressão 
+Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class. 
 .|.
 ------------ | -------------
 ![Image2](/images/preparacao/IMG_20190801_194933440.jpg) | ![Image2](/images/preparacao/IMG_20190801_195402963.jpg)<br><br>
 .|.
-Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
 
+<br><br>
 
 # EXPOSIÇÕES DA OBRA
 
