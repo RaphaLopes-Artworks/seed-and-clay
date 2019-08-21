@@ -62,14 +62,6 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 
 # EXPOSIÇÕES DA OBRA
 
-### Impressão
-
-.|.
------------- | -------------
-![Image2](/images/preparacao/IMG_20190801_195402963.jpg) | ![Image2](/images/preparacao/IMG_20190801_194933440.jpg)
-.|.
-
-
 ## Morar mais por menos 2019
 
 **Espaço MA.CA Arquitetura**  | .
