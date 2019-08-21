@@ -4,7 +4,6 @@ SEMENTE | BARRO
 A semente à terra... | ...da terra ao barro
 
 <br><br>
-
 ## FICHA TÉCNICA 
 - **Nome**: Semente e Barro 
 - **Autor**: RaphaLopes
@@ -29,8 +28,8 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 ## PREPARAÇÃO 
 
 ### Pedido
-Conheci a Mariana em um dos primeiros dias da faculdade de Arquitetura e Urbanismo, eu gostava de desenhar nas aulas e já esboça ideias como forma de croquis, até mesmo nas matérias teóricas. Foi na aula de teoria crítica da arquitetura, enquanto rabiscava alguma coisa, quando fui abordado com um pedido: 
-- Faz um desenho para mim? (Risos) 
+Conheci a Mariana em um dos primeiros dias da faculdade de Arquitetura e Urbanismo, eu gostava de desenhar nas aulas e já esboça ideias como forma de croquis, até mesmo nas matérias teóricas. Foi na aula de teoria crítica da arquitetura, enquanto rabiscava alguma coisa, quando fui abordado com um pedido:<br>
+'- Faz um desenho para mim? (Risos)<br> 
 Com certeza olhei meio desconfiado, mas disse sim! Fiz um crânio meio derretido, colorido, acho que foi pedido dela, não lembro. 
 
 Assim começou uma amizade, em meio a períodos turbulentos, vitórias e sonhos que hoje se refletem no nosso presente! Mais de 8 anos depois, ela novamente me pediu um desenho, dessa vez uma arte para seu espaço em uma das maiores mostras de arquitetura de interiores do Rio de Janeiro, uma arte exclusiva para uma cozinha linda, conceitual, de ideal feminista que retrata a força do trabalho da mulher no mundo atual. De um desenho simples e bobo para a uma arte séria com identidade, uma arte que vêm da alma, sentida e projetada para abraçar o espaço. 
@@ -56,15 +55,10 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
 
 ## AUTOR
-
-- Fotos com a obras e prêmios.
-- 
- <br><br>
-
-RaphaLopes, brasileiro |.
+**RaphaLopes**       | Brasileiro
 ------------ | -------------
 ![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura.
-[Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura) | [Instagram](https://instagram.com/raphalopes_arq) 
+[Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura) 
 
 <br><br>
 # EXPOSIÇÕES 
