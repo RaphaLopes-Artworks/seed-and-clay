@@ -1,12 +1,9 @@
-# SEED AND CLAY <br><br>
-
 SEMENTE | BARRO
 ------------ | -------------
 ![Image1](/images/semente.jpg) | ![Image2](/images/barro.jpg)
 A semente à terra... | ...da terra ao barro
 
-
-<br> Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.<br><br>
+<br><br>
 
 ## FICHA TÉCNICA 
 - **Nome**: Semente e Barro 
@@ -14,18 +11,15 @@ A semente à terra... | ...da terra ao barro
 - **Data de criação**: Julho 2019 
 - **Técnica utilizada**: Pintura digital
 - **Dimensões**: 80x110 (cada obra)
-- **Tiragem**: 20 peças 
-- **[Instagram](https://instagram.com/@raphalopes_arq)**
+- **Tiragem**: 20 peças <br><br>
 
 ## CONTEXTO 
 
 ### O ideal feminista
-Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
-
+Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.
 
 ### As artesãs do Brasil 
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
-
 
 ### O ideal feminista
  Instintivamente ele acredita que os dois gêneros habitam nossos corpos e que leis universais ditaram suas intenções.
@@ -43,13 +37,15 @@ Assim começou uma amizade, em meio a períodos turbulentos, vitórias e sonhos 
 
 Obrigado Mariana Caires por mais esse pedido!
 
-Uma representação do ideal feminista para a mostra de arquitetura de interiores Morar Mais Rio/2019.
-
-### Solicitante
-As artes inseridas e feitas para o espaço do escritório MA.CA, que projetou um ambiente contextualizado na dinâmica e força do trabalho da mulher no mundo atual.
+### Briefing 
+Uma representação do ideal feminista para a mostra de arquitetura de interiores Morar Mais Rio/2019. As artes inseridas e feitas para o espaço do escritório MA.CA, que projetou um ambiente contextualizado na dinâmica e força do trabalho da mulher no mundo atual.
 
 ### Croquis
-![Image2](/images/preparacao/Rascunho.jpeg)
+
+.|.
+------------ | -------------
+![Image2](/images/preparacao/Rascunho.jpeg) | ![Image2](/images/preparacao/Rascunho.jpeg)
+.|.
 
 ### Simulação
 ![Image2](/images/preparacao/IMG-20190726-WA0015.jpg)
@@ -60,19 +56,25 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
 
 ## AUTOR
-![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)
-- Nome: Rapha Lopes
-- Nacionalidade: Brasileiro
-- O autor: Rapha Lopes é arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura. 
+
 - Fotos com a obras e prêmios.
-- [Mais sobre o autor](https://raphaelarquitetura.wixsite.com/raphaelarquitetura)
+- 
  <br><br>
 
+RaphaLopes, brasileiro |.
+------------ | -------------
+![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura.
+[Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura) | [Instagram](https://instagram.com/raphalopes_arq) 
 
-## EXPOSIÇÕES 
+<br><br>
+# EXPOSIÇÕES 
 
-### Morar mais por menos 2019 - Espaço MA.CA Arquitetura
-- Período: ago 2019
-- Local: Rio de Janeiro - Brasil
-![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg)
+## Morar mais por menos 2019 - Espaço MA.CA Arquitetura
+Ago 2019 | Rio de Janeiro - Brasil
+------------ | -------------
+![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg)
+| 
+
+
+
 
