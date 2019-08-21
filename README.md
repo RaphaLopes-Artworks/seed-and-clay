@@ -1,16 +1,15 @@
 SEMENTE | BARRO
 ------------ | -------------
 ![Image1](/images/semente.jpg) | ![Image2](/images/barro.jpg)
-A semente à terra... | ...da terra ao barro
-
+A semente à terra... | ...da terra ao barro 
 <br><br>
 ## FICHA TÉCNICA 
-- **Nome**: Semente e Barro 
-- **Autor**: RaphaLopes
-- **Data de criação**: Julho 2019 
-- **Técnica utilizada**: Pintura digital
-- **Dimensões**: 80x110 (cada obra)
-- **Tiragem**: 20 peças <br><br>
+**Nome**: Semente e Barro <br>
+**Autor**: RaphaLopes <br>
+**Criação**: Julho 2019  <br>
+**Técnica utilizada**: Pintura digital <br>
+**Dimensões**: 80x110 (cada obra) <br>
+**Tiragem**: 20 peças <br><br>
 
 ## CONTEXTO 
 
@@ -54,14 +53,8 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 ![Image2](/images/preparacao/IMG_20190801_194933440.jpg)
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
 
-## AUTOR
-**RaphaLopes**       | Brasileiro
------------- | -------------
-![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura.
-[Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura) 
 
-<br><br>
-# EXPOSIÇÕES 
+# EXPOSIÇÕES DA OBRA
 
 ## Morar mais por menos 2019 - Espaço MA.CA Arquitetura
 Ago 2019 | Rio de Janeiro - Brasil
@@ -69,6 +62,12 @@ Ago 2019 | Rio de Janeiro - Brasil
 ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg)
 | 
 
+<br><br>
+## AUTOR
+**RaphaLopes**                 | Brasileiro
+------------ | -------------
+![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura.
+[Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura) 
 
 
 
