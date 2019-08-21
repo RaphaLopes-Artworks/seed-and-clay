@@ -55,7 +55,7 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 
 .|.
 ------------ | -------------
-![Image2](/images/preparacao/IMG_20190801_194933440.jpg) | ![Image2](/images/preparacao/IMG_20190801_195402963.jpg)<br><br>
+![Image2](/images/preparacao/IMG_20190801_195402963.jpg) | ![Image2](/images/preparacao/IMG_20190801_194933440.jpg)
 .|.
 
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
