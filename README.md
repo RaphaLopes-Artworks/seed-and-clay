@@ -52,17 +52,15 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 
 ### Impressão  
 ![Image2](/images/preparacao/IMG_20190801_194933440.jpg)
-Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
-![Image2](/images/preparacao/IMG_20190801_195402963.jpg)
+Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
+![Image2](/images/preparacao/IMG_20190801_195402963.jpg)<br><br>
 
 # EXPOSIÇÕES DA OBRA
 
-## Morar mais por menos 2019 - Espaço MA.CA Arquitetura
-
-Ago 2019 | Rio de Janeiro - Brasil
+**Morar mais por menos 2019**  | **Espaço MA.CA Arquitetura**
 ------------ | -------------
 ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg)
-
+Ago 2019 | Rio de Janeiro - Brasil
 
 <br><br>
 
