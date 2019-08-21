@@ -1,7 +1,7 @@
 
 **FICHA TÉCNICA**  | .
 ------------ | -------------
-**Nome**: Semente e Barro<br> **Autor**: RaphaLopes <br> **Criação**: Julho 2019 <br> **Técnica utilizada**: Pintura digital <br>  **Dimensões**: 80 x 110 cm (cada quadro) <br> **Tiragem**: 20 peças <br><br>  | ![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg
+![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg) | **Nome**: Semente e Barro<br> **Autor**: RaphaLopes <br> **Criação**: Julho 2019 <br> **Técnica utilizada**: Pintura digital <br>  **Dimensões**: 80 x 110 cm (cada quadro) <br> **Tiragem**: 20 peças
 . | .
 
 
