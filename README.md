@@ -62,11 +62,21 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 
 # EXPOSIÇÕES DA OBRA
 
+### Impressão
+
+.|.
+------------ | -------------
+![Image2](/images/preparacao/IMG_20190801_195402963.jpg) | ![Image2](/images/preparacao/IMG_20190801_194933440.jpg)
+.|.
+
+
 ## Morar mais por menos 2019
+
 **Espaço MA.CA Arquitetura**  | .
 ------------ | -------------
 ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg)
 Ago 2019 | Rio de Janeiro - Brasil
+
 
 <br><br>
 
