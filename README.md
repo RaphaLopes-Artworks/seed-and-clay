@@ -12,6 +12,7 @@ SEMENTE | BARRO
 ![Image1](/images/semente.jpg) | ![Image2](/images/barro.jpg)
 A semente à terra... | ...da terra ao barro
 
+<br><br>
 ## CONTEXTO 
 
 ### O ideal feminista
@@ -23,7 +24,6 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 ### O ideal feminista
  Instintivamente ele acredita que os dois gêneros habitam nossos corpos e que leis universais ditaram suas intenções.
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.<br><br>
-
 
 ## PREPARAÇÃO 
 
@@ -58,14 +58,15 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 # EXPOSIÇÕES DA OBRA
 
 ## Morar mais por menos 2019 - Espaço MA.CA Arquitetura
+
 Ago 2019 | Rio de Janeiro - Brasil
 ------------ | -------------
 ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg)
- . | .  
+
 
 <br><br>
 
-AUTOR | **RaphaLopes** 
+**AUTOR** | **RaphaLopes** 
 ------------ | -------------
 ![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Brasileiro, arquiteto, urbanista, <br> ilustrador e artista plástico premiado em diversos concursos, <br>maratonas e mostras de arquitetura.
 [Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura)
