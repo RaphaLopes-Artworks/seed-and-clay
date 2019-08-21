@@ -1,8 +1,4 @@
-SEMENTE | BARRO
------------- | -------------
-![Image1](/images/semente.jpg) | ![Image2](/images/barro.jpg)
-A semente à terra... | ...da terra ao barro 
-<br><br>
+ 
 ## FICHA TÉCNICA 
 **Nome**: Semente e Barro <br>
 **Autor**: RaphaLopes <br>
@@ -10,6 +6,11 @@ A semente à terra... | ...da terra ao barro
 **Técnica utilizada**: Pintura digital <br>
 **Dimensões**: 80x110 (cada obra) <br>
 **Tiragem**: 20 peças <br><br>
+
+SEMENTE | BARRO
+------------ | -------------
+![Image1](/images/semente.jpg) | ![Image2](/images/barro.jpg)
+A semente à terra... | ...da terra ao barro
 
 ## CONTEXTO 
 
@@ -59,15 +60,16 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 ## Morar mais por menos 2019 - Espaço MA.CA Arquitetura
 Ago 2019 | Rio de Janeiro - Brasil
 ------------ | -------------
-![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg)
-| 
+![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg)
+ . | .  
 
 <br><br>
-## AUTOR
-**RaphaLopes**                 | Brasileiro
+
+AUTOR | **RaphaLopes** 
 ------------ | -------------
-![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Arquiteto, urbanista, ilustrador e artista plástico premiado em diversos concursos, maratonas e mostras de arquitetura.
-[Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura) 
+![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Brasileiro, arquiteto, urbanista, <br> ilustrador e artista plástico premiado em diversos concursos, <br>maratonas e mostras de arquitetura.
+[Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura)
+ . | . 
 
 
 
