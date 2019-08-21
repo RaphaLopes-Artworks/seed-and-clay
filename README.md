@@ -4,7 +4,7 @@
 **Autor**: RaphaLopes <br>
 **Criação**: Julho 2019  <br>
 **Técnica utilizada**: Pintura digital <br>
-**Dimensões**: 80x110 (cada obra) <br>
+**Dimensões**: 80 x 110 cm (cada quadro) <br>
 **Tiragem**: 20 peças <br><br>
 
 SEMENTE | BARRO
