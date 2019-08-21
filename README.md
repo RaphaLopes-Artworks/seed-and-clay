@@ -1,16 +1,10 @@
 
-**FICHA TÉCNICA**  | .
------------- | -------------
-![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg) | **Nome**: Semente e Barro<br> **Autor**: RaphaLopes <br> **Criação**: Julho 2019 <br> **Técnica utilizada**: Pintura digital <br>  **Dimensões**: 80 x 110 cm (cada quadro) <br> **Tiragem**: 20 peças
-. | .
-
-
 ## FICHA TÉCNICA 
 **Nome**: Semente e Barro <br>
 **Autor**: RaphaLopes <br>
 **Criação**: Julho 2019  <br>
 **Técnica utilizada**: Pintura digital <br>
-**Dimensões**: 80 x 110 cm (cada quadro) <br>
+**Dimensões**: 80 cm x 110 cm (cada quadro) <br>
 **Tiragem**: 20 peças <br><br>
 
 SEMENTE | BARRO
@@ -57,9 +51,12 @@ Uma representação do ideal feminista para a mostra de arquitetura de interiore
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
 
 ### Impressão  
-![Image2](/images/preparacao/IMG_20190801_194933440.jpg)
+.|.
+------------ | -------------
+![Image2](/images/preparacao/IMG_20190801_194933440.jpg) | ![Image2](/images/preparacao/IMG_20190801_195402963.jpg)<br><br>
+.|.
 Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleifend pharetra purus fringilla vestibulum sed vel, hac consequat primis consequat est ut enim. arcu massa augue primis fusce justo sem fermentum litora class.
-![Image2](/images/preparacao/IMG_20190801_195402963.jpg)<br><br>
+
 
 # EXPOSIÇÕES DA OBRA
 
