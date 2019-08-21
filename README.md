@@ -1,4 +1,16 @@
- 
+
+**FICHA TÉCNICA**  | .
+------------ | -------------
+**Nome**: Semente e Barro <br>
+**Autor**: RaphaLopes <br>
+**Criação**: Julho 2019  <br>
+**Técnica utilizada**: Pintura digital <br>
+**Dimensões**: 80 x 110 cm (cada quadro) <br>
+**Tiragem**: 20 peças <br><br>
+ | ![Image2](/images/barro.jpg)
+. | .
+
+
 ## FICHA TÉCNICA 
 **Nome**: Semente e Barro <br>
 **Autor**: RaphaLopes <br>
@@ -57,7 +69,8 @@ Lorem ipsum hendrerit class phasellus libero tempus bibendum dapibus, sem eleife
 
 # EXPOSIÇÕES DA OBRA
 
-**Morar mais por menos 2019**  | **Espaço MA.CA Arquitetura**
+## Morar mais por menos 2019
+**Espaço MA.CA Arquitetura**  | .
 ------------ | -------------
 ![Image2](/images/morar_bem_ago19/arte_ambientada.jpeg) | ![Image2](/images/morar_bem_ago19/arte_ambientada_2.jpg)
 Ago 2019 | Rio de Janeiro - Brasil
