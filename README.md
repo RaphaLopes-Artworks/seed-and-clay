@@ -1,7 +1,10 @@
 # SEED AND CLAY <br><br>
 
-![Image1](/images/semente.jpg)
-![Image2](/images/barro.jpg)
+SEMENTE | BARRO
+------------ | -------------
+![Image1](/images/semente.jpg) | ![Image2](/images/barro.jpg)
+A semente à terra... | ...da terra ao barro
+
 
 <br> Contextualizada na dinâmica e força do trabalho da mulher no mundo atual. Mostra não só o hoje, mas o sempre. Revela a natureza poderosa do universo feminino através de formas e traços subliminarmente figurativos, mostrando a criação com alguns frutos e mãos fortes.<br><br>
 
