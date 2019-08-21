@@ -70,7 +70,6 @@ Ago 2019 | Rio de Janeiro - Brasil
 ------------ | -------------
 ![Image2](/images/rapha_lopes/rapha_lopes_tapete_close.jpg)| Brasileiro, arquiteto, urbanista, <br> ilustrador e artista plástico premiado em diversos concursos, <br>maratonas e mostras de arquitetura.
 [Instagram](https://instagram.com/raphalopes_arq) | [Mais sobre RaphaLopes](https://raphaelarquitetura.wixsite.com/raphaelarquitetura)
- . | . 
 
 
 
